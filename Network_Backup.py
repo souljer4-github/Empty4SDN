@@ -1,3 +1,6 @@
+import getpass
+import pathlib
+import netmiko
 from getpass import getpass
 from pathlib import Path
 from netmiko import ConnectHandler
